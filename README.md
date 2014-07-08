@@ -21,3 +21,4 @@ This is a new add
 
 testing add & commit same time
 testing diff
+testing add & commit
