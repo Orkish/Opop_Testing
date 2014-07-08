@@ -22,3 +22,5 @@ This is a new add
 testing add & commit same time
 testing diff
 testing add & commit
+
+Here is a change by max
